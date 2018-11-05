@@ -2,10 +2,10 @@ require("dotenv").config();
 
 var spotify = new Spotify(keys.spotify);
 
-concert-this
+// concert-this
 
-spotify-this-song
+// spotify-this-song
 
-movie-this
+// movie-this
 
-do-what-it-says
+// do-what-it-says
