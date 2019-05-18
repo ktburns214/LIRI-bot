@@ -1,5 +1,5 @@
 # LIRI-bot
-Node HW assignment
+Siri-style Node app
 
 User asks Liri-bot for information about concerts, movies, and songs
 
